@@ -1,4 +1,4 @@
-# server
+# Sample middleware
 
 Sample middleware
 
