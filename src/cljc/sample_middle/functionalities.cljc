@@ -9,11 +9,14 @@
 
 (def person-delete "person-delete")
 
+(def test-person-entity "test-person-entity")
+
 (def functionalities
      (conj
        fns/functionalities
        person-create
        person-read
        person-update
-       person-delete))
+       person-delete
+       test-person-entity))
 
