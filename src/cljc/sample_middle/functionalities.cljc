@@ -1,15 +1,20 @@
 (ns sample-middle.functionalities
   (:require [common-middle.functionalities :as fns]))
 
-(def person-create "person-create")
+(def person-create
+     "person-create")
 
-(def person-read "person-read")
+(def person-read
+     "person-read")
 
-(def person-update "person-update")
+(def person-update
+     "person-update")
 
-(def person-delete "person-delete")
+(def person-delete
+     "person-delete")
 
-(def test-person-entity "test-person-entity")
+(def test-person-entity
+     "test-person-entity")
 
 (def functionalities
      (conj
