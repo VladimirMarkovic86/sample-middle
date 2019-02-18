@@ -1,4 +1,4 @@
-(defproject org.clojars.vladimirmarkovic86/sample-middle "0.3.5"
+(defproject org.clojars.vladimirmarkovic86/sample-middle "0.3.6"
   :description "Sample middleware"
   :url "http://github.com/VladimirMarkovic86/sample-middle"
   :license {:name "Eclipse Public License"
