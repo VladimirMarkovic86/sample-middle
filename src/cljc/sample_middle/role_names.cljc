@@ -6,3 +6,6 @@
 (def person-mod-rname
      "Person moderator")
 
+(def chart-rname
+     "Chart")
+

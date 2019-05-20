@@ -16,6 +16,9 @@
 (def test-person-entity
      "test-person-entity")
 
+(def chart
+     "chart")
+
 (def functionalities
      (conj
        fns/functionalities
@@ -23,5 +26,6 @@
        person-read
        person-update
        person-delete
-       test-person-entity))
+       test-person-entity
+       chart))
 
